@@ -17,9 +17,6 @@ Welcome to my GitHub profile! I'm a dedicated professional thriving at the inter
 #### My Philosophy 🚀
 - "If I can calculate the seismic response of a building, I can probably do anything." I believe in pushing limits, tackling complex challenges, and delivering solutions that matter.
 
-#### Connect with Me 🌟
-Let's build something amazing together. Feel free to explore my repositories and reach out for collaborations, knowledge sharing, or just a good tech talk!
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ooyarce&label=Profile%20views&color=0e75b6&style=flat" alt="ooyarce" /> </p>
 
 - 🔭 I’m currently working on [FondeCyT Project](https://joseabell.com/)
