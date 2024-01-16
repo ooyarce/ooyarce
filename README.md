@@ -20,10 +20,6 @@ Welcome to my GitHub profile! I'm a dedicated professional thriving at the inter
 #### Connect with Me 🌟
 Let's build something amazing together. Feel free to explore my repositories and reach out for collaborations, knowledge sharing, or just a good tech talk!
 
-
-<h1 align="center">Hi 👋, I'm Omar Ignacio</h1>
-<h3 align="center">Python Dev & QA Engineer at AndesLab. 🌍 Chilean-Italian, working on structural design automation with AI & ETABS API. Currently mastering data analysis in a FONDECYT project. 🚀 Open to global opportunities!</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ooyarce&label=Profile%20views&color=0e75b6&style=flat" alt="ooyarce" /> </p>
 
 - 🔭 I’m currently working on [FondeCyT Project](https://joseabell.com/)
