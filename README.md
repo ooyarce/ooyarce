@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a dedicated professional thriving at the inter
 
 - 🔭 I’m currently working on [FondeCyT Project](https://joseabell.com/)
 
-- 🌱 I’m currently learning **Artifical Inteligence, QA Testing, Data Science**
+- 🌱 I’m currently learning **Artifical Inteligence, QA Testing, Software Engineering**
 
 - 📫 How to reach me **omaroyarce1996@gmail.com**
 
