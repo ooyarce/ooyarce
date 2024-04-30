@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm a dedicated professional thriving at the inter
 
 - 🌱 I’m currently learning **Artifical Inteligence, QA Testing, Software Engineering**
 
-- 📫 How to reach me **omaroyarce1996@gmail.com**
+- 📫 How to reach me **oioyarce@miuandes.cl**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
