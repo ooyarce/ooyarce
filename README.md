@@ -1,4 +1,4 @@
-### Hello World! 👋 I'm Omar Ignacio, a Passionate Python Developer and QA Engineer at AndesLab 🚀
+### Hello World! 👋 I'm Omar Ignacio, a Passionate Python Developer and DevOps Engineer at AndesLab 🚀
 
 Welcome to my GitHub profile! I'm a dedicated professional thriving at the intersection of structural engineering, data analysis, and cutting-edge technology. As part of the innovative team at AndesLab, a startup specializing in optimizing and automating structural design through artificial intelligence and APIs, I harness the power of Python to push the boundaries of what's possible in our field.
 
