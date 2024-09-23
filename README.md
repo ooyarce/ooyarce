@@ -1,41 +1,38 @@
-### Hello World! 👋 I'm Omar Ignacio, a Passionate Python Developer and DevOps Engineer at AndesLab 🚀
 
-Welcome to my GitHub profile! I'm a dedicated professional thriving at the intersection of structural engineering, data analysis, and cutting-edge technology. As part of the innovative team at AndesLab, a startup specializing in optimizing and automating structural design through artificial intelligence and APIs, I harness the power of Python to push the boundaries of what's possible in our field.
+### Omar Ignacio Oyarce - Python Backend Developer & DevOps Engineer at AndesLab
 
-#### A Bit About Me 🌍
-- **From Chile to the World**: Proudly Chilean with an Italian passport, I'm open to exploring and contributing to tech communities across the globe. My multicultural background fuels my desire to innovate and collaborate on an international scale.
+Welcome to my GitHub profile. With over 2 years of experience developing sophisticated Python backend systems, I specialize in creating scalable solutions for automation, data analysis, and APIs. I currently work at AndesLab, a startup focused on automating and optimizing structural design through artificial intelligence.
 
-- **Academic Pursuit**: I am currently working on my Master's thesis in a prestigious FONDECYT project, focusing on extensive simulations and data analysis. This endeavor is sharpening my skills in data science, equipping me to manage large datasets and complex simulations effectively.
+#### Professional Overview
+- **Global Perspective**: Chilean-born with an Italian passport, I am actively seeking opportunities to contribute to innovative tech projects in Europe or the USA. My multicultural background drives me to engage with global tech communities and collaborate across borders.
 
-#### What I Do 🌐
-- **Python Development & Quality Assurance**: My primary role involves crafting robust codes and algorithms that leverage the ETABS API. I focus on automating processes for building design, integrating advanced AI libraries like scikit-learn to enhance efficiency and accuracy.
-  
-- **Unit, Integration & Functional Testing Guru**: I take pride in being fully in charge of the testing area. My approach ensures every piece of software we develop meets the highest standards of reliability and performance.
+- **Academic Excellence**: I recently completed my Master's thesis with the highest grade, applying advanced data analysis and simulation techniques. You can explore the repository for my thesis project here: [SQL-Python Data Project](https://github.com/ooyarce/SQL-Python-Data-Project-). The project involved extensive use of Python, SQL, and data manipulation to handle large-scale simulations and datasets.
 
-- **SCRUM Methodology Advocate**: Working in a dynamic environment, I embrace the principles of SCRUM to drive effective teamwork and project management, ensuring agile, responsive, and collaborative development cycles.
+#### Areas of Expertise
+- **Backend Development & SaaS Solutions**: I have played a key role in developing core modules at AndesLab, ensuring seamless integration with APIs using Django, Flask, FastAPI, and agile methodologies such as Jira. Additionally, I have contributed to the development of a SaaS product, enhancing both backend functionality and user experience.
 
-#### My Philosophy 🚀
-- "If I can calculate the seismic response of a building, I can probably do anything." I believe in pushing limits, tackling complex challenges, and delivering solutions that matter.
+- **CI/CD & DevOps Automation**: I have implemented continuous integration and deployment pipelines using GitHub Actions, Slack notifications, bots, and automated testing strategies. These systems help ensure a smooth deployment process and maintain high code quality.
+
+- **QA Engineering & Software Testing**: I lead all quality assurance processes at AndesLab, including unit, functional, and integration tests, ensuring our software is reliable, scalable, and performs optimally in real-world applications.
+
+- **Advanced Data Science & Libraries**: Proficient in leveraging advanced libraries like Matplotlib, Numpy, Pandas, SciPy, Selenium, and Scikit-learn for data analysis and machine learning. These tools have been crucial in automating complex simulations and enhancing the accuracy of predictive models.
+
+#### Career Objective
+I am focused on maximizing my skills as a Python Backend Developer and QA Engineer. I am actively looking for challenging roles in Europe or the USA, where I can apply my expertise in backend development, CI/CD, and automation to complex, impactful projects.
+
+#### Let's Connect
+Feel free to reach out to discuss potential collaborations or opportunities:
+
+- **Email**: oioyarce@miuandes.cl  
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/omaroyarce)  
+- **Instagram**: [Instagram](https://instagram.com/omaroyarce)  
+
+#### Technical Skills
+- **Languages**: Python, C++, C#, JavaScript
+- **Tools**: GitHub Actions, Slack Actions, Docker, Kubernetes, CI/CD (GitLab CI, Jenkins), ETABS API, Pandas, Scikit-learn, React
+- **Frameworks**: Django, Flask, FastAPI
+- **Libraries**: Matplotlib, Numpy, Pandas, SciPy, Selenium, Scikit-learn
+- **Testing**: PyTest, Unit Testing, Integration Testing, Functional Testing
+- **Agile Tools**: Jira, Confluence
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ooyarce&label=Profile%20views&color=0e75b6&style=flat" alt="ooyarce" /> </p>
-
-- 🔭 I’m currently working on [FondeCyT Project](https://joseabell.com/)
-
-- 🌱 I’m currently learning **DevOps, QA Testing, Software Engineering**
-
-- 📫 How to reach me **oioyarce@miuandes.cl**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/omaroyarce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/omaroyarce" height="30" width="40" /></a>
-<a href="https://instagram.com/omaroyarce" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omaroyarce" height="30" width="40" /></a>
-</p>
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ooyarce&show_icons=true&locale=en&layout=compact" alt="ooyarce" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ooyarce&show_icons=true&locale=en" alt="ooyarce" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ooyarce&" alt="ooyarce" /></p>
