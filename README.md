@@ -23,7 +23,6 @@ I am a Python Backend Engineer with a strong focus on QA Engineering and DevOps,
 
 #### Let's Connect
 Feel free to reach out to discuss potential collaborations or opportunities:
-
 - **Email**: oioyarce@miuandes.cl  
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/omaroyarce)  
 - **Instagram**: [Instagram](https://instagram.com/omaroyarce)  
@@ -35,5 +34,16 @@ Feel free to reach out to discuss potential collaborations or opportunities:
 - **Libraries**: Matplotlib, Numpy, Pandas, SciPy, Selenium, Scikit-learn
 - **Testing**: PyTest, Unit Testing, Integration Testing, Functional Testing
 - **Agile Tools**: Jira, Confluence
+- **Cloud Platforms**: AWS, Google Cloud, Microsoft Azure
+- **AI/ML Tools**: TensorFlow, Keras, PyTorch, OpenAI API
+- **Data Engineering**: SQL, NoSQL Databases
+- **Microservices and Architecture**: REST, GraphQL, gRPC, Message Brokers (Kafka)
+- **Automation & Observability**: Ansible, Grafana, ELK Stack (Elasticsearch, Logstash)
+
+#### Language Proficiency
+- **Spanish**: Native
+- **English**: Advanced Profesional (ALTE3 C1)
+- **Italian**: Intermediate
+- **German**: Intermediate
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ooyarce&label=Profile%20views&color=0e75b6&style=flat" alt="ooyarce" /> </p>
