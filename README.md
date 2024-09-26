@@ -1,5 +1,5 @@
 
-### Omar Ignacio Oyarce - Python Backend Developer & DevOps Engineer at AndesLab
+### Omar Ignacio Oyarce - Python Backend Engineer & DevOps at AndesLab
 
 Welcome to my GitHub profile. With over 2 years of experience developing sophisticated Python backend systems, I specialize in creating scalable solutions for automation, data analysis, and APIs. I currently work at AndesLab, a startup focused on automating and optimizing structural design through artificial intelligence.
 
@@ -18,7 +18,8 @@ Welcome to my GitHub profile. With over 2 years of experience developing sophist
 - **Advanced Data Science & Libraries**: Proficient in leveraging advanced libraries like Matplotlib, Numpy, Pandas, SciPy, Selenium, and Scikit-learn for data analysis and machine learning. These tools have been crucial in automating complex simulations and enhancing the accuracy of predictive models.
 
 #### Career Objective
-I am focused on maximizing my skills as a Python Backend Developer and QA Engineer. I am actively looking for challenging roles in Europe or the USA, where I can apply my expertise in backend development, CI/CD, and automation to complex, impactful projects.
+I am a Python Backend Engineer with a strong focus on QA Engineering and DevOps, committed to continuously expanding my expertise. I am actively seeking challenging roles in Europe or the USA where I can leverage my skills in backend development, CI/CD pipelines, and automation to contribute to complex, high-impact projects.
+
 
 #### Let's Connect
 Feel free to reach out to discuss potential collaborations or opportunities:
