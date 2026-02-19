@@ -32,16 +32,6 @@ Based in Chile · EU Citizen · Open to roles in **Europe** and the **US**.
 - Write tested, typed, documented code as a default, not an afterthought
 - Lead a small team while staying deep in the codebase
 
-## Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ooyarce&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ooyarce&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ooyarce&theme=tokyonight&hide_border=true" />
-</p>
-
 ## Other
 
 - **Master's Thesis** — Highest honors · [Data Analysis with SQL & Python](https://github.com/ooyarce/SQL-Python-Data-Project-)
