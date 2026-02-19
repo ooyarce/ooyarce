@@ -84,14 +84,7 @@ I architected and built the entire SaaS platform from scratch, now serving payin
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ooyarce&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ooyarce&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ooyarce&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ooyarce&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ooyarce&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="165" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=ooyarce&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </p>
 
 ## Impact
 
