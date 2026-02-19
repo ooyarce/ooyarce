@@ -9,7 +9,7 @@
 
 I design and build production backend systems. At [**BuildaLab**](https://buildalab.io), I lead a small engineering team and architected the SaaS platform from the ground up — API layer, database design, async job processing, auth, cloud infrastructure, and the frontend that ties it together.
 
-**BuildaLab** is a prediction and optimization platform for construction projects. Real estate developers upload building models, and the system runs hundreds of structural simulations to predict costs, assess feasibility, and generate optimized design alternatives — all compliant with local building codes. Two core tools: **Smart Assist** for early-stage cost and feasibility analysis, and an **Optimizer** that finds the most cost-efficient structural configurations across walls, slabs, materials, and thicknesses. The platform serves high-rise residential and commercial projects across Chile's construction industry.
+**BuildaLab** is a prediction and optimization platform for construction projects. Real estate developers upload building models, and the system runs hundreds of structural simulations to predict costs, assess feasibility, and generate optimized design alternatives — all compliant with local building codes. Two core tools: **Instant Predictor** for early-stage cost and feasibility analysis, and an **Optimizer** that finds the most cost-efficient structural configurations across walls, slabs, materials, and thicknesses. The platform serves high-rise residential and commercial projects across Chile's construction industry.
 
 Based in Chile · EU Citizen · Open to roles in **Europe** and the **US**.
 
