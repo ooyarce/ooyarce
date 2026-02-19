@@ -7,13 +7,13 @@
 
 ---
 
-I design and build production backend systems. At [**BuildaLab**](https://buildalab.io), I architected and implemented the entire SaaS platform solo — API layer, database design, async job processing, auth, cloud infrastructure, and the frontend that ties it together. The platform is live and serves real users in the construction industry.
+I design and build production backend systems. At [**BuildaLab**](https://buildalab.io), I lead a small engineering team and architected the SaaS platform from the ground up — API layer, database design, async job processing, auth, cloud infrastructure, and the frontend that ties it together.
+
+**BuildaLab** is a prediction and optimization platform for construction projects. Real estate developers upload building models, and the system runs hundreds of structural simulations to predict costs, assess feasibility, and generate optimized design alternatives — all compliant with local building codes. Two core tools: **Smart Assist** for early-stage cost and feasibility analysis, and an **Optimizer** that finds the most cost-efficient structural configurations across walls, slabs, materials, and thicknesses. The platform serves high-rise residential and commercial projects across Chile's construction industry.
 
 Based in Chile · EU Citizen · Open to roles in **Europe** and the **US**.
 
-## What I've Built in Production
-
-> Single-handedly designed, built, and maintain a full SaaS platform handling real workloads.
+## What We Ship in Production
 
 ### Backend & API Design
 - REST API with **NestJS** + **Fastify**, modular architecture with guards, interceptors, and validation pipes
@@ -34,9 +34,10 @@ Based in Chile · EU Citizen · Open to roles in **Europe** and the **US**.
 - **Monorepo**: Turborepo + Yarn Workspaces with shared type-safe packages
 - Docker multi-stage builds, environment-based configuration, health checks
 
-### AI Integration
-- LLM pipelines using **OpenAI** and **Google Gemini** APIs for structural analysis optimization
-- Queue-based orchestration for long-running AI workloads with status tracking and result processing
+### AI & Simulation Pipelines
+- LLM integrations (**OpenAI**, **Google Gemini**) for structural analysis and intelligent cost prediction
+- Queue-based orchestration running hundreds of structural simulations per optimization request
+- Result processing pipelines that rank and deliver the top optimized design alternatives
 
 ## Engineering Practices
 - Comprehensive **unit and integration testing** with Jest — factories, mocks, database cleanup strategies
