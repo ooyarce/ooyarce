@@ -111,8 +111,8 @@ Master's thesis project achieving the highest grade. Large-scale data analysis a
 |----------|-------------|
 | Spanish | Native |
 | English | Advanced Professional (C1) |
-| Italian | Intermediate |
-| German | Intermediate |
+| Italian | Basic |
+| German | Basic |
 
 ---
 
