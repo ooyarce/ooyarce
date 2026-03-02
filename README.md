@@ -70,4 +70,3 @@ Data analysis and simulation systems using SQL and Python
 Spanish (native)  
 English (C1 professional)  
 Italian  
-German
