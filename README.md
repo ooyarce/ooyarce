@@ -1,44 +1,73 @@
 # Omar Ignacio Oyarce
 
-**Software Engineer — Backend & Full-Stack**
+**Backend & Cloud Engineer — AI-Enabled Systems**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omaroyarce)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oioyarce@miuandes.cl)
 
 ---
 
-I design and build production backend systems. At [**BuildaLab**](https://buildalab.io), I lead a small engineering team and architected the platform from the ground up.
+I build production-grade backend systems with a focus on scalability, reliability, and clean architecture.
 
-**BuildaLab** is a prediction and optimization platform for construction projects. Real estate developers upload building models, and the system runs hundreds of structural simulations to predict costs, assess feasibility, and generate optimized design alternatives — all compliant with local building codes. It serves high-rise residential and commercial projects across Chile's construction industry.
+Currently leading engineering at **BuildaLab**, a SaaS platform that helps real estate developers evaluate structural feasibility and cost through automated simulation workflows.
 
-Based in Chile · EU Citizen · Open to roles in **Europe** and the **US**.
-
-## What I Work With
-
-| Area | Technologies |
-|---|---|
-| **Backend** | NestJS, Fastify, FastAPI, TypeORM, PostgreSQL, Redis, BullMQ |
-| **Frontend** | Next.js 15, React 19, Zustand, TanStack Query, Tailwind, shadcn/ui |
-| **Cloud** | AWS (ECS Fargate, RDS, ElastiCache, S3, SES, Cognito, CloudWatch) |
-| **AI** | OpenAI API, Google Gemini API, LLM pipeline design |
-| **DevOps** | Docker, GitHub Actions, Turborepo, Yarn Workspaces |
-| **Practices** | Testing (Jest), strict TypeScript, OpenAPI docs, CI/CD, OWASP security |
-
-## What I Do Well
-
-- Architect and ship full backend systems — APIs, auth, queues, database design
-- Build async processing pipelines that handle computation-heavy workloads reliably
-- Own infrastructure end-to-end — from database schema to deployment pipeline
-- Write tested, typed, documented code as a default, not an afterthought
-- Lead a small team while staying deep in the codebase
-
-## Other
-
-- **Master's Thesis** — Highest honors · [Data Analysis with SQL & Python](https://github.com/ooyarce/SQL-Python-Data-Project-)
-- **Languages** — Spanish (native) · English (C1) · Italian · German
+Based in Chile · EU Citizen · Open to roles in Europe and the US
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ooyarce&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+## 🚀 What I Build
+
+- Cloud-native APIs and backend services
+- Asynchronous processing pipelines for heavy computational workloads
+- Multi-tenant SaaS architectures
+- LLM-powered system features
+- CI/CD pipelines and containerized deployments
+- Typed, tested, production-ready systems
+
+---
+
+## 🛠 Tech Stack
+
+### Backend
+NestJS · Fastify · FastAPI · TypeORM · Prisma · PostgreSQL · Redis · BullMQ
+
+### Frontend
+Next.js · React · Zustand · TanStack Query · TailwindCSS
+
+### Cloud & Infrastructure
+AWS (ECS Fargate, RDS, ElastiCache, S3, SES, Cognito, CloudWatch)  
+Docker · GitHub Actions · Turborepo
+
+### AI & LLM Integration
+OpenAI API · Google Gemini API  
+Prompt design · structured outputs · production LLM integration
+
+### Engineering Practices
+Strict TypeScript · OpenAPI documentation · Unit testing (Jest) · CI/CD · OWASP-aware design
+
+---
+
+## 🧠 What I Care About
+
+- Systems that are simple, observable, and reliable
+- Balancing speed and technical debt in growing products
+- Writing code that is maintainable by default
+- Designing APIs and data models that age well
+- Owning systems end-to-end
+
+---
+
+## 🎓 Academic Work
+
+**Master’s Thesis — Highest Honors**  
+Data analysis and simulation systems using SQL and Python  
+→ [View Repository](https://github.com/ooyarce/SQL-Python-Data-Project-)
+
+---
+
+## 🌍 Languages
+
+Spanish (native)  
+English (C1 professional)  
+Italian  
+German
